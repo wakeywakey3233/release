@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.9/OCGuard.exe",
-  "sha256": "9756acc1e1f2f6d3a45216bff98cf356ad93ca46ca48734588401c0cb46e02ae",
-  "notes": "Reliable auto-login: click each field (Username/Password/Sign-in) instead of relying on Tab/Enter"
+  "version": "1.2.0",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.0/OCGuard.exe",
+  "sha256": "3ca63b5fa98955859ee5977034724d08f222aadeaecc9f25e01c3bd3ab618206",
+  "notes": "Auto-login finds the login window even when a launcher opens it; login result shown on the card; tray icon; click-based login aiming"
 }
