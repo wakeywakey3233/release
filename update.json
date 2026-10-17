@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.0/OCGuard.exe",
-  "sha256": "3ca63b5fa98955859ee5977034724d08f222aadeaecc9f25e01c3bd3ab618206",
-  "notes": "Auto-login finds the login window even when a launcher opens it; login result shown on the card; tray icon; click-based login aiming"
+  "version": "1.2.1",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.1/OCGuard.exe",
+  "sha256": "fdf4cd6cef25ab797dee5e8ec9b67c0ba2b1a341613f398a0815cbe5c4d9cf0e",
+  "notes": "Auto-login now says on the card exactly why it skipped (no saved login, unreadable login); sturdier password store"
 }
