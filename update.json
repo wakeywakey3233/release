@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.0/OCGuard.exe",
-  "sha256": "7663801ece8997601fb22c798bedcf7c07ba5d26a509d3d34a8de55839d533d5",
-  "notes": "Fleet view + secure remote control + auto-update"
+  "version": "1.1.2",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.2/OCGuard.exe",
+  "sha256": "33c5246344469e338a89f404f5b2c38813f7db3d109ea245a6469c21bc77aefd",
+  "notes": "Runs as admin, start-with-Windows as admin, one-click remove button"
 }
