@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.1/OCGuard.exe",
-  "sha256": "fdf4cd6cef25ab797dee5e8ec9b67c0ba2b1a341613f398a0815cbe5c4d9cf0e",
-  "notes": "Auto-login now says on the card exactly why it skipped (no saved login, unreadable login); sturdier password store"
+  "version": "1.2.2",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.2/OCGuard.exe",
+  "sha256": "5f9f244fa0d2a3d69c04a25b50df44343457fa7b2c30671ebe6ba48720ca9275",
+  "notes": "Fix: auto-login no longer wrongly skips web-style apps (Electron/Chromium) as 'already signed in'"
 }
