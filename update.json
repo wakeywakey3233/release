@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.7/OCGuard.exe",
-  "sha256": "a5b0d67e56501785a9abba1d7a0995c077dd4fe5b011a54cb59f9b8214032983",
-  "notes": "New defaults applied to existing installs, shows account + masked password, smart login wait, auto-refresh after update"
+  "version": "1.1.9",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.9/OCGuard.exe",
+  "sha256": "9756acc1e1f2f6d3a45216bff98cf356ad93ca46ca48734588401c0cb46e02ae",
+  "notes": "Reliable auto-login: click each field (Username/Password/Sign-in) instead of relying on Tab/Enter"
 }
