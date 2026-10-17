@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.6/OCGuard.exe",
-  "sha256": "1eef8c235a62d8ab25e29c56422a33750bb80c9149bb1a3d225274987493c0b9",
-  "notes": "Runaway guard (force-close all copies over a limit) and a wait-before-reopen delay"
+  "version": "1.1.7",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.1.7/OCGuard.exe",
+  "sha256": "a5b0d67e56501785a9abba1d7a0995c077dd4fe5b011a54cb59f9b8214032983",
+  "notes": "New defaults applied to existing installs, shows account + masked password, smart login wait, auto-refresh after update"
 }
