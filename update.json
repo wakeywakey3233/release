@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.2/OCGuard.exe",
-  "sha256": "5f9f244fa0d2a3d69c04a25b50df44343457fa7b2c30671ebe6ba48720ca9275",
-  "notes": "Fix: auto-login no longer wrongly skips web-style apps (Electron/Chromium) as 'already signed in'"
+  "version": "1.2.4",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.4/OCGuard.exe",
+  "sha256": "052bb96adf06196f47b8d1510537c7887beeeb7b9a0c51c0d0c14a69df2b46df",
+  "notes": "Apps resume automatically after a reboot; Stop/Pause now lasts only until OC Guard next starts"
 }
