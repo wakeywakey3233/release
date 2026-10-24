@@ -1,6 +1,5 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.2.4/OCGuard.exe",
-  "sha256": "052bb96adf06196f47b8d1510537c7887beeeb7b9a0c51c0d0c14a69df2b46df",
-  "notes": "Apps resume automatically after a reboot; Stop/Pause now lasts only until OC Guard next starts"
+  "version": "1.3.0",
+  "url": "https://github.com/wakeywakey3233/release/releases/download/v1.3.0/OCGuard.exe",
+  "sha256": "d5b4fd5a313e4448b1d52d5cb837f93d588802fac6a99d7a4e2876aeca31eda3"
 }
