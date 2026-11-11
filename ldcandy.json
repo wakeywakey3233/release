@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "stable": {
+    "version": "1.16.32-ld.9",
+    "sha256": "65f4366649fc29e4907611cfcd6ca822b76f9a6fb8c6b39905429fddbd270094",
+    "size": 9009152,
+    "url": "https://github.com/wakeywakey3233/release/releases/download/ldcandy-1.16.32-ld.9/LDCandy.exe",
+    "notes": "LD Candy 1.16.32-ld.9: rejoins after a lost connection, moves to small servers, buys a Halloween box at every 600 candies (candies only), HARVEST pings in the old script's form with the candies spent first, the inventory look, the map vote (off by default), the camera kept at the right distance, fewer real candies given up as gone."
+  },
+  "candidate": null,
+  "revoked": [],
+  "minOCGuard": "1.18.0"
+}
